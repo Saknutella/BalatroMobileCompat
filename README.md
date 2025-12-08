@@ -1,5 +1,5 @@
 # BalatroMobileCompat
-Patches some code to allow Balatro to work properly on mobile. Does nothing on PC.
+Patches some code to allow Balatro to work properly on mobile. Does nothing on PC.Now with more features(FPS cap, etc.).
 
 This mod requires [Lovely](https://github.com/ethangreen-dev/lovely-injector) in order to work.
 
