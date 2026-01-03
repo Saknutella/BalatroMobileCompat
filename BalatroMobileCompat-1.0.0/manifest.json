@@ -1,0 +1,11 @@
+{
+    "name": "Mobile Compatibility",
+    "id": "mobilecompat",
+    "prefix": "mobilecompat",
+    "version": "1.0",
+    "description": "Patches some code to allow the game to work properly on mobile. Does nothing on PC.",
+    "author": ["Avery"],
+    "main_file": "main.lua",
+    "priority": -10000,
+    "dependencies": []
+}
